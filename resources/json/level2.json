@@ -1,0 +1,78 @@
+{
+    "duration": 25,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.05,
+            "health": 9,
+            "speedX": 20,
+            "speedY": 50,
+            "key": "bigEnemy",
+            "scale": 1
+        }, 
+        {
+            "time":2,
+            "x":0.1,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.8
+        },
+        {
+            "time":3,
+            "x":0.1,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.8
+        },
+        {
+            "time":4,
+            "x":0.1,
+            "health": 5,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+    {
+            "time":5,
+            "x":0.1,
+            "health": 8,
+            "speedX": 70,
+            "speedY": 70,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+        {
+            "time":6,
+            "x":0.6,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.8
+        },
+        {
+            "time":7,
+            "x":0.5,
+            "health": 5,
+            "speedX": 40,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+    {
+            "time":8,
+            "x":0.7,
+            "health": 8,
+            "speedX": 50,
+            "speedY": 60,
+            "key": "smallEnemy",
+            "scale": 1
+        }
+    ]
+}

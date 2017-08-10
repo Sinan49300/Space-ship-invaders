@@ -1,0 +1,154 @@
+{
+    "duration": 40,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.85,
+            "health": 4,
+            "speedX": 20,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.5
+        }, 
+        {
+            "time":2,
+            "x":0.9,
+            "health": 4,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.5
+        },
+        {
+            "time":3,
+            "x":0.7,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+        {
+            "time":4,
+            "x":0.5,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        }, {
+            "time":5,
+            "x":0.4,
+            "health": 3,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        }, {
+            "time":6,
+            "x":0.4,
+            "health": 3,
+            "speedX": 270,
+            "speedY": 100,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+    {
+            "time":7,
+            "x":0.3,
+            "health": 3,
+            "speedX": 270,
+            "speedY": 70,
+            "key": "smallEnemy",
+            "scale": 0.5
+        },
+        {
+            "time":8,
+            "x":0.85,
+            "health": 4,
+            "speedX": 20,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.5
+        }, 
+        {
+            "time":8,
+            "x":0.9,
+            "health": 4,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.5
+        },
+        {
+            "time":9,
+            "x":0.7,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+        {
+            "time":10,
+            "x":0.5,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        }, {
+            "time":11,
+            "x":0.4,
+            "health": 3,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        }, {
+            "time":12,
+            "x":0.4,
+            "health": 3,
+            "speedX": 100,
+            "speedY": 150,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+    {
+            "time":13,
+            "x":0.3,
+            "health": 3,
+            "speedX": 100,
+            "speedY": 70,
+            "key": "smallEnemy",
+            "scale": 0.5
+        }
+        ,{
+            "time":11,
+            "x":0.2,
+            "health": 3,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        }, {
+            "time":12,
+            "x":0.1,
+            "health": 3,
+            "speedX": 100,
+            "speedY": 150,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+    {
+            "time":13,
+            "x":0.2,
+            "health": 3,
+            "speedX": 100,
+            "speedY": 70,
+            "key": "smallEnemy",
+            "scale": 0.5
+        }
+    ]
+}

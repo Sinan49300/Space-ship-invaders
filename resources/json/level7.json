@@ -1,0 +1,33 @@
+{
+    "duration": 40,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.3,
+            "health": 30,
+            "speedX": -10,
+            "speedY": 30,
+            "key": "smallEnemy",
+            "scale": 1.5
+        },
+        {
+            "time":1,
+            "x":0.5,
+            "health": 50,
+            "speedX": 0,
+            "speedY": 20,
+            "key": "boss",
+            "scale": 1.8
+        },
+        {
+            "time":1,
+            "x":0.7,
+            "health": 30,
+            "speedX": 10,
+            "speedY": 30,
+            "key": "smallEnemy",
+            "scale": 1.5
+        }
+    ]
+}

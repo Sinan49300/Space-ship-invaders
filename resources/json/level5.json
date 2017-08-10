@@ -1,0 +1,15 @@
+{
+    "duration": 25,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.5,
+            "health": 90,
+            "speedX": 0,
+            "speedY": 70,
+            "key": "boss",
+            "scale": 3
+        }
+    ]
+}

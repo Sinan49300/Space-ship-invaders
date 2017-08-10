@@ -1,0 +1,122 @@
+{
+    "duration": 40,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.3,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 30,
+            "key": "smallEnemy",
+            "scale": 0.8
+        }, 
+        {
+            "time":1,
+            "x":0.45,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 30,
+            "key": "smallEnemy",
+            "scale": 0.8
+        },
+        {
+            "time":1,
+            "x":0.5,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.8
+        },
+        {
+            "time":1,
+            "x":0.65,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },{
+            "time":1,
+            "x":0.8,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },{
+            "time":2,
+            "x":0.8,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 30,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+    {
+            "time":3,
+            "x":0.1,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+        {
+            "time":4,
+            "x":0.8,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 10,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+    {
+            "time":5,
+            "x":0.1,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+        {
+            "time":6,
+            "x":0.8,
+            "health": 4,
+            "speedX": 70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+    {
+            "time":7,
+            "x":0.9,
+            "health": 4,
+            "speedX": -70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+        {
+            "time":8,
+            "x":0.7,
+            "health": 4,
+            "speedX": -70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        },
+    {
+            "time":9,
+            "x":0.4,
+            "health": 4,
+            "speedX": -70,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.7
+        }
+         
+    ]
+}

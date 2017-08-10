@@ -1,0 +1,95 @@
+{
+    "duration": 30,
+    "enemies":
+    [
+        {
+            "time":1,
+            "x":0.05,
+            "health": 9,
+            "speedX": 20,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1.1
+        }, 
+        {
+            "time":2,
+            "x":0.1,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+        {
+            "time":3,
+            "x":0.1,
+            "health": 3,
+            "speedX": 50,
+            "speedY": 50,
+            "key": "smallEnemy",
+            "scale": 0.9
+        },
+        {
+            "time":4,
+            "x":0.1,
+            "health": 5,
+            "speedX": 30,
+            "speedY": 40,
+            "key": "smallEnemy",
+            "scale": 1
+        },
+         {
+            "time":5,
+            "x":0.1,
+            "health": 8,
+            "speedX": 100,
+            "speedY": 100,
+            "key": "bigEnemy",
+            "scale": 0.8
+            },
+           {
+            "time":6,
+            "x":0.5,
+            "health": 2,
+            "speedX": 20,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.8
+        }, {
+            "time":6,
+            "x":0.2,
+            "health": 2,
+            "speedX": 20,
+            "speedY": 20,
+            "key": "smallEnemy",
+            "scale": 0.8
+        }, 
+        {
+            "time":7,
+            "x":0.3,
+            "health": 5,
+            "speedX": 0,
+            "speedY": 80,
+            "key": "bigEnemy",
+            "scale": 0.8
+        } ,
+        {
+            "time":7,
+            "x":0.5,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 80,
+            "key": "bigEnemy",
+            "scale": 0.8
+        } ,
+        {
+            "time":7,
+            "x":0.7,
+            "health": 2,
+            "speedX": 0,
+            "speedY": 80,
+            "key": "bigEnemy",
+            "scale": 0.8
+        } 
+    ]
+}

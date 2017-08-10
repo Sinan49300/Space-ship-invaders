@@ -1,0 +1,56 @@
+/* PC  */
+@media only screen and (min-width: 1200px) {
+} 
+/* Tablet 12" max 1200px */
+@media only screen and (max-width: 1200px) {
+}
+/* Tablet de 768px à 1023px */
+@media only screen and (max-width: 1023px) {
+}
+/* Smartphone de 481px à 767px */
+@media only screen and (max-width: 767px) {
+}
+
+/* Smartphone de 0 à 480px */
+@media only screen and (max-width: 480px) {
+h1 {
+    text-align: center;
+    font-size:60px;
+    font-weight: 400;
+}
+
+.play{
+    margin: 8% 35%;
+    height:10vh;
+}
+
+.left {
+    position:absolute;
+    float:left;
+    top:35%;
+    left:5%;
+    
+}
+
+.left-ship{
+    opacity:0;
+}
+
+.right{
+    position:absolute;
+    float:right;
+    top:35%;
+    left:65%;  
+   
+}
+
+.right-ship{
+    opacity:0;
+}
+
+.home img {
+    margin-top:100px;
+    height: 125px;
+    width:125px;
+}
+}

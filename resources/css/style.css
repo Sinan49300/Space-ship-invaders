@@ -1,0 +1,54 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #000;
+}
+
+h1 {
+    text-align: center;
+    overflow: visible;
+    font-style: "Times New Roman";
+    font-size:110px;
+    font-weight: 400;
+    color: rgba(255,255,255,1);
+    word-spacing: 6%;
+    margin: 5% auto;
+    text-shadow: 0 0 100px rgba(29,214,214,1) , 0 0 20px rgba(255,255,255,1) , 0 0 0px rgba(255,255,255,1) , 0 0 10px #08f7f8 , 0 0 1px #08f7f8 , 0 0 0px #08f7f8 , 0 0 50px #08f7f8 , 0 0 10px #08f7f8 ;
+    opacity: 0;
+}
+
+.play{
+    background:#000;
+    margin: 8% 38%;
+    height:40vh;
+    opacity:0;
+}
+
+.left {
+    position:absolute;
+    float:left;
+    top:35%;
+    left:5%;
+    
+}
+
+.left-ship{
+    opacity:0;
+}
+
+.right{
+    position:absolute;
+    float:right;
+    top:35%;
+    left:65%;  
+   
+}
+
+.right-ship{
+    opacity:0;
+}
+
+.home img {
+    height: 475px;
+    width:475px;
+}
